@@ -17,4 +17,4 @@ ff02::3 ip6-allhosts
 
 # Start block list
 0.0.0.0 brave.com
-0.0.0.0 vod-dash.main.amazon.pv-cdn.net
+0.0.0.0 *.vod-dash.main.amazon.pv-cdn.net
